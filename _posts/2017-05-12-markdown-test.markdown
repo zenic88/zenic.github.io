@@ -24,4 +24,4 @@ categories 는 어디에 쓰는건가~?
 
 아직 어떻게 하는지 잘 모르겠네요~
 
-[github] : https://github.com/zenic88
+[github]: https://github.com/zenic88
